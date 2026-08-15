@@ -673,12 +673,82 @@
         "minecraftsteve": {
             "name": "STEVE",
             "author": "Newkem",
-            "desc": "with help from GCube and BlueFan77",
+            "desc": "with help from Gcube and BlueFan77",
             "url": "../src/skins/minecraftsteve.png",
             "icon": "../src/skins/icons/minecraftsteve.png",
             "version": ["1.4.4", "1.4.5"],
             "tags": ["community"],
             "replaces": "french",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "Gcube": {
+            "name": "GcubeFlow4",
+            "author": "GcubeFlow4",
+            "desc": "He solve cubes, and is an src mod",
+            "url": "../src/skins/GcubeFlow4.png",
+            "icon": "../src/skins/icons/GcubeFlow4.png",
+            "version": ["1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community", "speedy"],
+            "replaces": "fl1ckd",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "REDAMMAIL": {
+            "name": "REDAMMAIL74",
+            "author": "REDAMMAIL74",
+            "desc": "an IRL friend of gcube",
+            "url": "../src/skins/REDAMMAIL74.png",
+            "icon": "../src/skins/icons/REDAMMAIL74.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community", "speedy"],
+            "replaces": "thefall",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "GamingPrime": {
+            "name": "GamingPrime",
+            "author": "GcubeFlow4",
+            "desc": "The Glorious 1.4.4 Any% FWR Holder with a 6:07, GamingPrime",
+            "url": "../src/skins/GamingPrime.png",
+            "icon": "../src/skins/icons/GamingPrime.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community", "speedy"],
+            "replaces": "thefall",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "Newkem": {
+            "name": "Newkem",
+            "author": "Newkem",
+            "desc": "The Third Worst Thing to happen to those Orphans",
+            "url": "../src/skins/Newkem.png",
+            "icon": "../src/skins/icons/Newkem.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community", "speedy"],
+            "replaces": "dknight",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "Glitch": {
+            "name": "The Glitch",
+            "author": "GcubeFlow4",
+            "desc": "A skin made by gcube for fun",
+            "url": "../src/skins/glitch.png",
+            "icon": "../src/skins/icons/glitch.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community"],
+            "replaces": "ada",
             "defaultSettings": {
                 "favorite": false,
                 "using": false
