@@ -753,10 +753,54 @@
                 "favorite": false,
                 "using": false
             }
+        },
+        
+        
+        "Samurai": {
+            "name": "Samurai",
+            "author": "Newkem",
+            "desc": "A Legendary Samurai",
+            "url": "../src/skins/samurai.PNG",
+            "icon": "../src/skins/icons/glitch.png",
+            "version": ["1.4.4", "1.4.5"],
+            "tags": ["community"],
+            "replaces": "french",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "Black Hole": {
+            "name": "Black Hole",
+            "author": "Newkem",
+            "desc": "BLACK HOLE SAVE ME",
+            "url": "../src/skins/blackholeyay.PNG",
+            "icon": "../src/skins/icons/glitch.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community"],
+            "replaces": "default",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
+        },
+        "Reverse": {
+            "name": "Reverse Defalt",
+            "author": "Newkem",
+            "desc": "Default but reverse",
+            "url": "../src/skins/reversedefault.PNG",
+            "icon": "../src/skins/icons/glitch.png",
+            "version": ["1.4", "1.4.2", "1.4.3", "1.4.4", "1.4.5"],
+            "tags": ["community"],
+            "replaces": "default",
+            "defaultSettings": {
+                "favorite": false,
+                "using": false
+            }
         }
         
         
-    },
+     },
     "mods": 
     {        
         "leveleditor": {
